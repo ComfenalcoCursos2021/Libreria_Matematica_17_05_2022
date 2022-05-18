@@ -1,2 +1,2 @@
 let num = 5.314789;
-console.log(Math.trunc(num));
+console.log(num.toFixed(2));
