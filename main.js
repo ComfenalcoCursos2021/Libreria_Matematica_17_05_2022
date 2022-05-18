@@ -1,2 +1,2 @@
-console.log(Math.pow(5,2));
-
+let num = 5.314789;
+console.log(Math.trunc(num));
