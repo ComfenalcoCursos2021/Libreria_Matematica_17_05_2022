@@ -1,2 +1,13 @@
-let num = 5.5312468;
-console.log(Math.round(num));
+console.log(Math.floor(-5.4));
+console.log(Math.floor(-5.5));
+console.log(Math.floor(-5.6));
+console.log(Math.round(-5.4));
+console.log(Math.round(-5.5));
+console.log(Math.round(-5.6));
+console.log("----------------");
+console.log(Math.floor(5.4));
+console.log(Math.floor(5.5));
+console.log(Math.floor(5.6));
+console.log(Math.round(5.4));
+console.log(Math.round(5.5));
+console.log(Math.round(5.6));
