@@ -1,2 +1,2 @@
-let num = 5.314789;
-console.log(num.toFixed(2));
+let num = 5.5312468;
+console.log(Math.round(num));
